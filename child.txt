@@ -1,3 +1,4 @@
 git child will init into git parsent
 liu ye dao
 child1
+child2
